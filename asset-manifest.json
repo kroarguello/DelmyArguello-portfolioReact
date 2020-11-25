@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/DelmyArguello-portfolioReact/static/css/main.1723517a.chunk.css",
+    "main.js": "/DelmyArguello-portfolioReact/static/js/main.88668b01.chunk.js",
+    "main.js.map": "/DelmyArguello-portfolioReact/static/js/main.88668b01.chunk.js.map",
+    "runtime-main.js": "/DelmyArguello-portfolioReact/static/js/runtime-main.3f7cd6df.js",
+    "runtime-main.js.map": "/DelmyArguello-portfolioReact/static/js/runtime-main.3f7cd6df.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/DelmyArguello-portfolioReact/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2108d761.chunk.js": "/DelmyArguello-portfolioReact/static/js/2.2108d761.chunk.js",
+    "static/js/2.2108d761.chunk.js.map": "/DelmyArguello-portfolioReact/static/js/2.2108d761.chunk.js.map",
+    "index.html": "/DelmyArguello-portfolioReact/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/DelmyArguello-portfolioReact/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.1723517a.chunk.css.map": "/DelmyArguello-portfolioReact/static/css/main.1723517a.chunk.css.map",
+    "static/js/2.2108d761.chunk.js.LICENSE.txt": "/DelmyArguello-portfolioReact/static/js/2.2108d761.chunk.js.LICENSE.txt",
+    "static/media/Project1.1491a0f3.png": "/DelmyArguello-portfolioReact/static/media/Project1.1491a0f3.png",
+    "static/media/delmy.17b51d6e.JPG": "/DelmyArguello-portfolioReact/static/media/delmy.17b51d6e.JPG",
+    "static/media/index.css": "/DelmyArguello-portfolioReact/static/media/fondo1.f94b4ce5.jpg",
+    "static/media/myteam.de2b22e1.png": "/DelmyArguello-portfolioReact/static/media/myteam.de2b22e1.png",
+    "static/media/notetaker.c4423591.png": "/DelmyArguello-portfolioReact/static/media/notetaker.c4423591.png",
+    "static/media/password_generator.3107c1e7.png": "/DelmyArguello-portfolioReact/static/media/password_generator.3107c1e7.png",
+    "static/media/project2.ee2bacf3.png": "/DelmyArguello-portfolioReact/static/media/project2.ee2bacf3.png",
+    "static/media/workday_scheduler.a24ba403.png": "/DelmyArguello-portfolioReact/static/media/workday_scheduler.a24ba403.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f7cd6df.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2108d761.chunk.js",
+    "static/css/main.1723517a.chunk.css",
+    "static/js/main.88668b01.chunk.js"
+  ]
+}
