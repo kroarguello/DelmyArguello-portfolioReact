@@ -1,9 +1,10 @@
-import React from 'react';
-import "./style.css";
+import React, { Component } from "react";
+import Container from "../components/Container";
 
-function Contactme(){
-return (
-    <div className="container fontcolor">
+class Contactme extends Component {
+  render() {
+    return (
+<div className="container fontcolor">
   <div>
   <h2 className="fontcolor">Contact me</h2>
   </div>
@@ -21,8 +22,8 @@ return (
 
   </div>
  </div>
-
 );
+  }
 }
 
-export default Contactme
+export default Contactme;

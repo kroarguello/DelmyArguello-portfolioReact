@@ -1,9 +1,9 @@
-import React from 'react';
-import "./style.css";
+import React from "react";
 
-function Aboutme() {
-    return (
-<div className="container">
+
+function About() {
+  return (
+    <div className="container">
     
 <div className="row fontcolor" >
       <div className="col-md">
@@ -13,7 +13,9 @@ function Aboutme() {
 
 <div className="row fontcolor" >
       <div className="col-md">
-      imagen
+      <div className="hero text-center" style={{ backgroundImage: `url()` }}>
+      
+    </div>
       </div>
       <div className="col-md">
       <p>I am a student of Full Stack Develompent Bootcamp , looking for a new opportunities to 
@@ -26,7 +28,8 @@ function Aboutme() {
 
     
 </div>
-);
+
+  );
 }
 
-export default Aboutme;
+export default About;
