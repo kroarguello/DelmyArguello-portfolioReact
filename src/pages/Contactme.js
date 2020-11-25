@@ -1,9 +1,19 @@
 import React, { Component } from "react";
+import fondo from "./images/fondo1.jpg";
+
+const divStyle = { 
+  color: "white",
+  backgroundImage: 'url('+ fondo+')'
+};
 
 class Contactme extends Component {
+
+  
+
+
   render() {
     return (
-<div className="container fontcolor">
+<div className="container fontcolor" style={divStyle}>
   <div>
   <h2 className="fontcolor">Contact me</h2>
   </div>

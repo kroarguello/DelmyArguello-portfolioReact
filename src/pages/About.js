@@ -1,11 +1,15 @@
 import React from "react";
 import image from "./images/delmy.JPG";
-//import fondo from "./images/fondo1.jpg";
+import fondo from "./images/fondo1.jpg";
 
+const divStyle = {
+  color: "white",
+  backgroundImage: 'url('+ fondo+')'
+};
 
 function About() {
   return (
-    <div className="container" >
+    <div className="container" style={divStyle} >
     
 <div className="row fontcolor" >
       <div className="col-md">
