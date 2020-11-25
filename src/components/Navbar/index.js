@@ -4,8 +4,8 @@ import "./style.css";
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/">
+    <nav className="navbar navbar-expand-lg navbar-light navbar1">
+      <Link className="navbar-brand font1" to="/">
         Delmy Arguello
       </Link>
       <div>
