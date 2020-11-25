@@ -19,12 +19,18 @@ class Porfolio extends Component {
       <div>
       <h2>Portfolio</h2>
       </div>
-      <div className="responsive ">
+
+       <div className="responsive ">
+       <div className="desc">Password Generator</div>
         <div className="gallery">
           <a target="_blank" href=" https://kroarguello.github.io/Homework-3/.">
             <img src={image} alt="password" width="600" height="400"></img>
           </a>
-          <div className="desc">Password Generator</div>
+          <div className="desc">
+          <a target="_blank" href=" https://kroarguello.github.io/Homework-3/.">
+            Link : Password Generator
+         </a>
+          </div>
         </div>
       </div>
       
