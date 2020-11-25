@@ -4,7 +4,7 @@ import "./style.css";
 function Footer(){
 return (
     <div className="footer ">
-    <p className="pposition">UT Bootcamp</p>
+    <p className="text-center">UT Bootcamp</p>
   </div>
 );
 }

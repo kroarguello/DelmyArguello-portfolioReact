@@ -4,7 +4,7 @@ import "./style.css";
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light navbar1">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark navbar1">
       <Link className="navbar-brand font1" to="/">
         Delmy Arguello
       </Link>
@@ -13,11 +13,7 @@ function Navbar() {
           <li className="nav-item">
             <Link
               to="/"
-              className={
-                window.location.pathname === "/" || window.location.pathname === "/about"
-                  ? "nav-link active"
-                  : "nav-link"
-              }
+              className={window.location.pathname === "/" || window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
             >
               About me
             </Link>

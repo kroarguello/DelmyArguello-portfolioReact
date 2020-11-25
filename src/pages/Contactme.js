@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 const divStyle = { 
   color: "white",
-
+  
 };
 
 class Contactme extends Component {
@@ -12,7 +12,7 @@ class Contactme extends Component {
 
   render() {
     return (
-<div className="container fontcolor" style={divStyle}>
+<div className="container" style={divStyle}>
   <div>
   <h2 className="fontcolor">Contact me</h2>
   </div>

@@ -15,9 +15,9 @@ class Porfolio extends Component {
 
   render() {
     return (
-      <div className="container fontcolor" style={divStyle}>
+      <div className="container" style={divStyle}>
       <div>
-      <h2 className0="fontcolor">Portfolio</h2>
+      <h2>Portfolio</h2>
       </div>
       <div className="responsive ">
         <div className="gallery">

@@ -20,5 +20,5 @@ body{
 .container{
     background-color: rgba(185, 180, 180, 0.623);
     border-radius: 10px;
-    flex: 1 0 auto
+    flex: 1 0 auto,
 }
