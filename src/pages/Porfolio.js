@@ -5,11 +5,10 @@ import Project1 from "./images/Project1.png";
 import notetaker from "./images/notetaker.png";
 import myteam from "./images/myteam.png";
 import project2 from "./images/project2.png"
-import fondo from "./images/fondo1.jpg";
 
 const divStyle = { 
   color: "white",
-  backgroundImage: 'url('+ fondo+')'
+  
 };
 
 class Porfolio extends Component {

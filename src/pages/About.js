@@ -1,10 +1,9 @@
 import React from "react";
 import image from "./images/delmy.JPG";
-import fondo from "./images/fondo1.jpg";
+
 
 const divStyle = {
   color: "white",
-  backgroundImage: 'url('+ fondo+')'
 };
 
 function About() {
