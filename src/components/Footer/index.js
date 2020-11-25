@@ -3,7 +3,7 @@ import "./style.css";
 
 function Footer(){
 return (
-    <div className="footer">
+    <div className="footer ">
     <p>UT Bootcamp</p>
   </div>
 );
