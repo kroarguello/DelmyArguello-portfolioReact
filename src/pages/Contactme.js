@@ -14,7 +14,7 @@ class Contactme extends Component {
     return (
 <div className="container" style={divStyle}>
   <div>
-  <h2 className="fontcolor">Contact me</h2>
+  <h1 className="fontcolor">Contact me</h1>
   </div>
   
 
